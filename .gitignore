@@ -1,0 +1,56 @@
+# Keil uVision项目文件
+*.uvguix*
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.omf
+*.plg
+*.prevdebug
+*.cui
+*.uvguix
+*.uvopt
+*.uvoptx
+project/DebugConfig/
+project/Listings/
+project/Objects/
+project/RTE/
+
+# 编译输出文件
+*.axf
+*.bin
+*.elf
+*.hex
+*.htm
+*.i
+*.ii
+*.o
+*.obj
+*.d
+*.crf
+*.sct
+*.map
+*.dep
+*.build_log.htm
+
+# 临时文件
+*.tmp
+*.temp
+*_backup.txt
+*.backup
+
+# 用户配置文件（保留工程文件）
+*.uvguix_*
+EventRecorderStub.scvd
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE配置
+.vscode/
+.idea/
