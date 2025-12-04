@@ -91,7 +91,7 @@ int main(void)
     DHT11_Init();
     TIM3_Init();
     Init_tiemr4();
-	  printf(" ========== 电信233-刘立烨 ==========\r\n");
+
 	  printf("         ==== 温湿度采集 =====\r\n");
 	  printf("             == YYDS ==\r\n");
     sch_init();
